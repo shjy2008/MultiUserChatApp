@@ -95,3 +95,4 @@ Press **Ctrl+C** in the server terminal. Clients will no longer be able to conne
 ```
 
 <img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/8a52eb3c-f356-41e0-b458-a1c0e4affb30" />
+
